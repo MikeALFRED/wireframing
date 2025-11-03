@@ -34,3 +34,41 @@
 **What it is:** What users can do on each page
 **Example:** Search filters, date pickers, booking buttons
 **Why it matters:** Makes the website interactive and useful
+
+
+## 📊 Types of Wireframes
+
+### Low-Fidelity Wireframes
+**What they look like:**
+- Simple black and white sketches
+- Basic shapes and lines
+- Placeholder text (like "lorem ipsum")
+- No colors or real images
+
+**When we use them:**
+- Early brainstorming sessions
+- Quick idea testing
+- Getting initial feedback
+- Planning basic layout
+
+### High-Fidelity Wireframes
+**What they look like:**
+- More detailed and polished
+- Actual content and text
+- Specific colors and fonts
+- Real button styles and form fields
+
+**When we use them:**
+- Final design approval
+- Developer handoff
+- Detailed user testing
+- Client presentations
+
+## 🎯 Our Wireframe Approach
+
+For this AirBnB clone project, we started with **low-fidelity wireframes** to quickly plan the basic layout and user flow. Then we created **high-fidelity wireframes** to finalize the details before starting development.
+
+**Our process:**
+1. Low-fidelity sketches → Rapid planning and changes
+2. High-fidelity wireframes → Detailed design decisions
+3. Development → Building the actual website

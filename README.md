@@ -72,3 +72,32 @@ For this AirBnB clone project, we started with **low-fidelity wireframes** to qu
 1. Low-fidelity sketches → Rapid planning and changes
 2. High-fidelity wireframes → Detailed design decisions
 3. Development → Building the actual website
+
+## 🛠️ Wireframing Tools
+
+### Popular Tools
+
+**Figma** - Our recommended choice
+**Adobe XD** - Good for Adobe users
+**Sketch** - Popular with Mac users
+**Balsamiq** - Great for quick low-fidelity wireframes
+**Pen and Paper** - Fastest for initial ideas
+
+### Why We Chose Figma
+
+**Figma** is our go-to tool for wireframing because:
+
+**✅ Free to use** - No cost for basic features
+**✅ Works in browser** - No installation needed
+**✅ Real-time collaboration** - Team can work together
+**✅ Easy sharing** - Simple link sharing for feedback
+**✅ Design to code** - Developers can inspect elements
+**✅ Component library** - Reuse common elements
+
+**Key Figma Features:**
+- Drag and drop interface
+- Pre-made UI kits
+- Interactive prototypes
+- Comment system for feedback
+- Version history
+- Mobile preview
